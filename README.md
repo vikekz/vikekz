@@ -4,7 +4,7 @@
 
 ### **My CV's**
 * [On Russian](https://docs.google.com/document/d/1Qp4zXWNZijW0OkeAJZAnyf3uhEhpQ1yU1zXSmr3rAGk/edit?usp=sharing)
-* On English
+* [On English](https://docs.google.com/document/d/12Hm2v9aTTDfDKe1ho0jM7dAhDEEPUtsxY-DvdjHj5r0/edit?usp=sharing)
 
 ### **Portfolio**
 * Postman test collection: [Test workspace](https://www.postman.com/orbital-module-observer-93437619/workspace/test-workspace/overview) or [Repository](https://github.com/vikekz/Postman-Training)
