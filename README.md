@@ -2,8 +2,8 @@
 
 ## **Beginner QA Engineer**
 
-### **My CV**
-* On Russian
+### **My CV's**
+* [On Russian](https://docs.google.com/document/d/1Qp4zXWNZijW0OkeAJZAnyf3uhEhpQ1yU1zXSmr3rAGk/edit?usp=sharing)
 * On English
 
 ### **Portfolio**
