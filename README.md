@@ -3,7 +3,8 @@
 ## **Beginner QA Engineer**
 
 ### **My CV**
-* 
+* On Russian
+* On English
 
 ### **Portfolio**
 * Postman test collection: [Test workspace](https://www.postman.com/orbital-module-observer-93437619/workspace/test-workspace/overview) or [Repository](https://github.com/vikekz/Postman-Training)
