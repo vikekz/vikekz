@@ -19,3 +19,7 @@
 ![DevTools](https://img.shields.io/badge/-DevTools-d1f8c1?style=for-the-badge&logo=googlechrome&logoColor=8f968f)
 ![Python](https://img.shields.io/badge/-Python-d1f8c1?style=for-the-badge&logo=python&logoColor=c9d00c)
 ![Testrail](https://img.shields.io/badge/-Testrail-d1f8c1?style=for-the-badge&logo=googlenearby&logoColor=58a658)
+
+
+### **Contacts**
+![Email](https://img.shields.io/badge/-Email_:-d1f8c1?style=for-the-badge&logo=gmail&logoColor=ff0000) vectorzaba@gmail.com
