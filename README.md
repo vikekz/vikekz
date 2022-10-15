@@ -22,4 +22,9 @@
 
 
 ### **Contacts**
-![Email](https://img.shields.io/badge/-Email_:-d1f8c1?style=for-the-badge&logo=gmail&logoColor=ff0000) vectorzaba@gmail.com
+![Email](https://img.shields.io/badge/-Emails_:-d1f8c1?style=for-the-badge&logo=gmail&logoColor=ff0000)
+- **vectorzaba@gmail.com**
+- **vik3kz@gmail.com**
+
+[![Telegram](https://img.shields.io/badge/-Telegram-d1f8c1?style=for-the-badge&logo=telegram)](https://t.me/vikekz)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-d1f8c1?style=for-the-badge&logo=linkedin&logoColor=00bfff)](https://www.linkedin.com/in/viktor-zabaluev/)
