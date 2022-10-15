@@ -22,7 +22,7 @@
 
 
 ### **Contacts**
-![Email](https://img.shields.io/badge/-Emails_:-d1f8c1?style=for-the-badge&logo=gmail&logoColor=ff0000)
+![Email](https://img.shields.io/badge/-Emails:-d1f8c1?style=for-the-badge&logo=gmail&logoColor=ff0000)
 - **vectorzaba@gmail.com**
 - **vik3kz@gmail.com**
 
