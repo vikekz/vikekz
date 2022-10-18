@@ -9,7 +9,7 @@
 ### **Portfolio**
 * Postman test collection: [Test workspace](https://www.postman.com/orbital-module-observer-93437619/workspace/test-workspace/overview) or [Repository](https://github.com/vikekz/Postman-Training)
 * [Test-cases](https://github.com/vikekz/Test-cases) and [check-lists](https://github.com/vikekz/Check-lists)
-* [Bug-reports](https://github.com/vikekz/Bug-reports)
+* [Bug-reports](https://github.com/vikekz/Bug-reports) 
 
 
 
