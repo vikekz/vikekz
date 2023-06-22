@@ -1,6 +1,6 @@
 [![Header](https://github.com/vikekz/vikekz/blob/main/assets/githublogo.png)](https://github.com/vikekz/vikekz/blob/main/assets/githublogo.png)
 
-## **Beginner QA Engineer**
+## **Beginner Qa Engineer**
 
 ### **My CV's**
 * [On Russian](https://docs.google.com/document/d/1Qp4zXWNZijW0OkeAJZAnyf3uhEhpQ1yU1zXSmr3rAGk/edit?usp=sharing)
