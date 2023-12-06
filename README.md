@@ -7,7 +7,7 @@
 * [On English](https://docs.google.com/document/d/12Hm2v9aTTDfDKe1ho0jM7dAhDEEPUtsxY-DvdjHj5r0/edit?usp=sharing)
 
 ### **Portfolio**
-* Postman : [Test workspace](https://www.postman.com/orbital-module-observer-93437619/workspace/test-workspace/overview) or [Repository](https://github.com/vikekz/Postman-Training)
+* Postman [Test task](https://github.com/vikekz/Test-task-Postman-GoREST1) and [Training project](https://github.com/vikekz/Users-Bugred-Postman)
 * [Test-cases](https://github.com/vikekz/Test-cases) and [check-lists](https://github.com/vikekz/Check-lists)
 * [Bug-reports](https://github.com/vikekz/Bug-reports) 
 
