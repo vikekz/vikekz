@@ -9,7 +9,8 @@
 ### **Portfolio**
 * Postman [Test task](https://github.com/vikekz/Test-task-Postman-GoREST1) and [Training project](https://github.com/vikekz/Users-Bugred-Postman) 
 * [Test-cases](https://github.com/vikekz/Test-cases) and [check-lists](https://github.com/vikekz/Check-lists)
-* [Bug-reports](https://github.com/vikekz/Bug-reports) 
+* [Bug-reports](https://github.com/vikekz/Bug-reports)
+* [SQL Test task](https://github.com/vikekz/SQL_TestTask1) and I've completed all the interactive tutorials on [sqlbolt.com](https://sqlbolt.com/)
 
 
 
