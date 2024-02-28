@@ -20,8 +20,9 @@
 ![Jira](https://img.shields.io/badge/-Jira-d1f8c1?style=for-the-badge&logo=jira&logoColor=20abf3)
 ![DevTools](https://img.shields.io/badge/-DevTools-d1f8c1?style=for-the-badge&logo=googlechrome&logoColor=8f968f)
 ![Testrail](https://img.shields.io/badge/-Testrail-d1f8c1?style=for-the-badge&logo=googlenearby&logoColor=58a658)
-![Python](https://img.shields.io/badge/-Python-d1f8c1?style=for-the-badge&logo=python&logoColor=c9d00c)
 ![MySQL](https://img.shields.io/badge/-MySQL-d1f8c1?style=for-the-badge&logo=Mysql)
+![Charles](https://img.shields.io/badge/-Charles_Proxy-d1f8c1?style=for-the-badge&logo=charles&logoColor=00bfff)
+![Python](https://img.shields.io/badge/-Python-d1f8c1?style=for-the-badge&logo=python&logoColor=c9d00c)
 
 ### **Contacts**
 ![Email](https://img.shields.io/badge/-Emails:-d1f8c1?style=for-the-badge&logo=gmail&logoColor=ff0000)
