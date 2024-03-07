@@ -30,5 +30,4 @@
 - **vik3kz@gmail.com**
 
 [![Telegram](https://img.shields.io/badge/-Telegram-d1f8c1?style=for-the-badge&logo=telegram&)](https://t.me/vikekz)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-d1f8c1?style=for-the-badge&logo=linkedin&logoColor=00bfff)](https://www.linkedin.com/in/viktor-zabaluev/)
-[![LinkedIn](https://img.shields.io/badge/-hh.ru-d1f8c1?style=for-the-badge&logo=hellyhansen&logoColor=ff3333)](https://chelyabinsk.hh.ru/applicant/resumes/view?resume=a2b748dfff0ca9a6fc0039ed1f784d51654c6b)
+[![HH](https://img.shields.io/badge/-hh.ru-d1f8c1?style=for-the-badge&logo=hellyhansen&logoColor=ff3333)](https://chelyabinsk.hh.ru/applicant/resumes/view?resume=a2b748dfff0ca9a6fc0039ed1f784d51654c6b)
